@@ -59,7 +59,7 @@ export const CourseTagsList = styled.ul`
   margin: 0px;
 `
 
-export const CourseTagsList = styled.li`
+export const CourseTagItem = styled.li`
   list-style-type: none;
 `
 
@@ -73,7 +73,7 @@ export const CourseTag = styled.p`
   line-height: 1.6;
   padding: 4px 8px;
   margin: 0px;
-  margin-bottom: 8ppx;
+  margin-bottom: 8px;
   margin-right: 8px;
   @media screen and (min-width: 768px) {
     font-size: 12px;

@@ -13,7 +13,7 @@ import {
 
 const CourseTimelineCard = props => {
   const {courseDetails} = props
-  const {CourseTitle, description, duration, tagsList} = courseDetails
+  const {courseTitle, description, duration, tagsList} = courseDetails
 
   return (
     <>

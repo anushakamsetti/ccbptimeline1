@@ -15,7 +15,7 @@ const ProjectTimelineCard = props => {
   const {projectDetails} = props
   const {
     imageUrl,
-    ProjectTitle,
+    projectTitle,
     description,
     projectUrl,
     duration,
